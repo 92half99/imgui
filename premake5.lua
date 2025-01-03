@@ -19,6 +19,8 @@ project "ImGui"
 		"imstb_textedit.h",
 		"imstb_truetype.h",
 		"imgui_demo.cpp"
+    	"misc/cpp/imgui_stdlib.cpp",
+		"misc/cpp/imgui_stdlib.h"
 	}
 
 	filter "system:windows"
